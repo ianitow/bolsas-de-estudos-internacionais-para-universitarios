@@ -1,5 +1,5 @@
 # Sobre
-Salve pessoal, comecei esse repositório para ajudar aqueles que assim como eu esteja buscando bolsas de estudos internacionais. Esse repositório tem como foco bolsas de estudos internacionais para <b>estudantes brasileiros</b> que estejam cursando o <b>nível superior</b>, mas poderá haver algumas bolsas que contemplam outros níveis de escolaridade.
+Salve pessoal, comecei esse repositório para ajudar aqueles que assim como eu esteja buscando bolsas de estudos internacionais. Esse repositório tem como foco bolsas de estudos internacionais para <b>estudantes brasileiros</b> que estejam cursando o <b>nível superior</b>, mas pode haver algumas bolsas que contemplem outros níveis de escolaridade.
 
 Essa ideia surgiu depois que vi que a bolsa que eu estava querendo (MITACS) aceitam apenas estudantes do Paraná. ಥ‿ಥ
 
