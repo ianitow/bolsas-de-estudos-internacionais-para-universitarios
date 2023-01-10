@@ -375,6 +375,54 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
 
 ## 🇰🇷 Coreia do Sul
 
+<table role="table">
+  <thead>
+    <tr>
+      <th>Programa</th>
+      <th>Critérios importantes</th>
+      <th>Tempo de duração</th>
+      <th>Data de abertura</th>
+      <th>Data de fechamento</th>
+      <th>Cursos elegíveis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="www.studyinkorea.go.kr" target="_BLANK">
+	Global Korea Scholarship</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+	  Graduação / Pós-graduação
+            </l1>
+	    <li>
+	  Inscrição feita pela embaixo da Coréia do Sul no Brasil. Ao escolher pela embaixada, você concorre apenas com estudantes brasileiros. Ao escolher uma universidade por conta, você concorre apenas a uma universidade e é responsável por enviar os documentos. Necessário checar edital
+            </l1>
+          <li>
+	  Restrição de idade. Ser menor que 40 anos para pós-graduação e menor que 25 anos para graduação.
+           </l1>
+	   <li>
+	   <a href="https://overseas.mofa.go.kr/br-pt/brd/m_22116/view.do?seq=761036">Informações úteis¹</a>
+	   </li>
+	   <li><a href="https://overseas.mofa.go.kr/br-pt/brd/m_22116/view.do?seq=761176&page=1"> Informações úteis²</a></li>
+        </ul>
+      </td>
+      <td>
+        3 ~ 5 anos
+      </td>
+      <td>2023 ainda não tem informações</td>
+      <td>
+      <li>Pós graduação: meados de Fevereiro</li>
+      <li>Graduação: meados de Agosto/Setembro</li>
+      </td>
+      <td>Diversos cursos em diferentes universidades, conferir no site do programa</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## 🇪🇸 Espanha
 
 ## 🇺🇸 Estados Unidos
