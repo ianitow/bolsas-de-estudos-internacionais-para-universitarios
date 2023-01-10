@@ -1,8 +1,9 @@
 # Sobre
-Salve pessoal, comecei esse repositório para ajudar aqueles que assim como eu estejam buscando bolsas de estudos internacionais. 
-Essa ideia surgiu depois que eu vi que a bolsa que eu estava querendo (MITACS) só aceita estudantes do Paraná.(sad)
+Salve pessoal, comecei esse repositório para ajudar aqueles que assim como eu estejam buscando bolsas de estudos internacionais. Esse repositório tem como foco bolsas de estudos internacionais para <b>estudantes brasileiros</b> que estejam cursando o <b>nível superior.</b>
 
-Sinta-se convidado para ajudar a contribuir, basta subir uma pull request com o formato da tabela das bolsas abaixo. 
+Essa ideia surgiu depois que eu vi que a bolsa que eu estava querendo (MITACS) aceitam apenas estudantes do Paraná. ಥ‿ಥ
+
+Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issue com o formato da tabela das bolsas abaixo e eu farei questão de adicionar o quanto antes. 
 
 # Sumário
 <a href="#-canadá"> 🇨🇦 Canadá  </a>
