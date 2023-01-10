@@ -411,12 +411,12 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
       </td>
       <td>
         3 ~ 5 anos
+      </td> 
+      <td>
+      	<li>Graduação: meados de Agosto/Setembro</li>
+	<li>Pós-graduação: meados de Fevereiro</li>
       </td>
       <td>2023 ainda não tem informações</td>
-      <td>
-      <li>Pós graduação: meados de Fevereiro</li>
-      <li>Graduação: meados de Agosto/Setembro</li>
-      </td>
       <td>Diversos cursos em diferentes universidades, conferir no site do programa</td>
     </tr>
   </tbody>
