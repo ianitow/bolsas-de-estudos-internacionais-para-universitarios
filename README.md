@@ -332,7 +332,6 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
       <td>30 de Maio de 2023</td>
       <td>Filosofia, Direito, Economia, História, Educação, Administração, Engenharia, Literatura, Artes, Medicina, Agricultura e Ciências em geral</td>
     </tr>
-    
      <tr>
       <td>
         <a href="http://iso.ruc.edu.cn/ENGLISH/Scholarship/RUC2022ScholarshipApplicationGuideforNewInternationalStudents/index.htm" target="_BLANK">V. Renmin University of China Outstanding International Students Award</a>
