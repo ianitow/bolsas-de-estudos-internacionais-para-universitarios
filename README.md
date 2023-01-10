@@ -1,16 +1,49 @@
 # Sobre
-Salve pessoal, comecei esse repositório para ajudar aqueles que assim como eu estejam buscando bolsas de estudos internacionais. Esse repositório tem como foco bolsas de estudos internacionais para <b>estudantes brasileiros</b> que estejam cursando o <b>nível superior.</b>
+Salve pessoal, comecei esse repositório para ajudar aqueles que assim como eu esteja buscando bolsas de estudos internacionais. Esse repositório tem como foco bolsas de estudos internacionais para <b>estudantes brasileiros</b> que estejam cursando o <b>nível superior</b>, mas poderá haver algumas bolsas que contemplam outros níveis de escolaridade.
 
-Essa ideia surgiu depois que eu vi que a bolsa que eu estava querendo (MITACS) aceitam apenas estudantes do Paraná. ಥ‿ಥ
+Essa ideia surgiu depois que vi que a bolsa que eu estava querendo (MITACS) aceitam apenas estudantes do Paraná. ಥ‿ಥ
 
-Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issue com o formato da tabela das bolsas abaixo e eu farei questão de adicionar o quanto antes. 
+Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issue com o formato da tabela das bolsas abaixo e eu farei questão de adicionar quanto antes. 
 
 # Sumário
-<a href="#-canadá"> 🇨🇦 Canadá  </a>
+
+<ul>
+<li><a href="#-canadá">🇩🇪 Alemanha</a></li>
+<li><a href="#-canadá">🇦🇷 Argentina</a></li>
+<li><a href="#-canadá">🇨🇦 Canadá</a></li>
+<li><a href="#-canadá">🇨🇱 Chile</a></li>
+<li><a href="#-canadá">🇨🇳 China</a></li>
+<li><a href="#-canadá">🇰🇷 Coreia do Sul</a></li>
+<li><a href="#-canadá">🇪🇸 Espanha</a></li>
+<li><a href="#-canadá">🇺🇸 Estados Unidos</a></li>
+<li><a href="#-canadá">🇫🇷 França</a></li>
+<li><a href="#-canadá">🇮🇹 Itália</a></li>
+<li><a href="#-canadá">🇯🇵 Japão</a></li>
+<li><a href="#-canadá">🇲🇽 México</a></li>
+<li><a href="#-canadá">🇵🇹 Portugal</a></li>
+<li><a href="#-canadá">🇷🇺 Rússia</a></li>
+<li><a href="#-canadá">🇺🇦 Ucrânia</a></li>
+<li><a href="#-canadá">🇺🇾 Uruguai</a></li>
+</ul>
+
+
+
+
+
 
 # Bolsas internacionais
 ⚠️ Confira o regulamento completo no site do programa escolhido, aqui serão apresentados apenas alguns critérios mais relevantes para facilitar a busca.
+
+## 🇩🇪 Alemanha
+
+
+## 🇦🇷 Argentina
+
+
+
+
 ## 🇨🇦 Canadá 
+
 <table role="table">
 <thead>
 <tr>
@@ -27,15 +60,63 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
 <td><a href="https://globalink.mitacs.ca/#/student/application/welcome" target="_BLANK"> MITACS</a></td>
 <td>
 <ul>
-<li>Graduando / Pós-graduação / Mestrado. </l1>
+<li>Graduando / Pós-graduação / Mestrado </l1>
 <li>Faltar 1-3 semestres para concluir sua graduação no Brasil ao retornar do programa. </l1>
 <li>Além disso, é necessário que sua universidade esteja listada como parceira do programa. (Atualmente, todas do Paraná)</li>
-
+<li>Fluência Inglês / Francês. (Não é necessário certificado de proficiência) </li>
 </ul> </td>
-<td><li>10 ~ 12 semanas</td>
+<td><li>10 à 12 semanas</li></td>
 <td>2023 ainda não foram abertas</td>
 <td>2023 ainda não foram abertas</td>
 <td>Todas as áreas</td>
 </tr>
-</thead>
+
+
+
+<tr>
+<td><a href="https://www.educanada.ca/scholarships-bourses/can/institutions/elap-pfla.aspx?lang=eng" target="_BLANK">Emerging Leaders in the Americas Program(ELAP)</a></td>
+<td>
+<ul>
+<li>Graduando / Pós-graduação / Mestrado / Doutorado</l1>
+<li>O processo é feito pela universidade, geralmente eles publicam um edital explicando o processo e critérios de avaliação para submeter sua inscrição ao programa. Algumas desconhecem sobre o programa, então será necessário entrar em contato com a Assessoria de Relações Internacionais da sua universidade para mais informações.  </l1>
+<li>Além disso, é necessário que sua universidade esteja listada como parceira do programa. (Atualmente, todas do Paraná)</li>
+
+</ul> </td>
+<td><li>4 ~ 6 meses </li></td>
+<td>2023 ainda não foram abertas</td>
+<td>2023 ainda não foram abertas</td>
+<td><li>Estudantes que desenvolvam estudos relacionados a disciplinas que promovam a boa governança, prosperidade, paz, segurança e desenvolvimento econômico. (Subjetivo, interpretei como todas as áreas)</li></td>
+</tr>
+
+
+
+
+</tbody>
 </table>
+
+## 🇨🇱 Chile
+
+## 🇨🇳 China
+
+## 🇰🇷 Coreia do Sul
+
+## 🇪🇸 Espanha
+
+## 🇺🇸 Estados Unidos
+
+## 🇫🇷 França
+
+## 🇮🇹 Itália
+
+## 🇯🇵 Japão
+
+## 🇲🇽 México
+
+## 🇵🇹 Portugal
+
+## 🇷🇺 Rússia
+
+## 🇺🇦 Ucrânia
+
+## 🇺🇾 Uruguai
+
