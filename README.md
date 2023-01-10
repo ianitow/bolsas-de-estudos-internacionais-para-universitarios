@@ -389,7 +389,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
   <tbody>
     <tr>
       <td>
-        <a href="www.studyinkorea.go.kr" target="_BLANK">
+        <a href="https://www.studyinkorea.go.kr" target="_BLANK">
 	Global Korea Scholarship</a>
       </td>
       <td>
