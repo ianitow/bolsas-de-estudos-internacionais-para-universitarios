@@ -60,9 +60,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
             </l1>
         </ul>
       </td>
-      <td>
-        <li></li>
-      </td>
+      <td></td>
       <td>🟢 Aberto</td>
       <td></td>
       <td></td>
