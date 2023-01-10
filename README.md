@@ -320,6 +320,9 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
 	    <li>
 	 	É feita uma espécie de avaliação do seus resultados acadêmicos para saber sua pontuação e classifica-lo de acordo com um ranking.
             </l1>
+	<li>
+	<a href="https://ascholarship.com/beijing-municipal-government-scholarships-2023-2024-deadline-may-30-2023/">Informações úteis</a>
+	</li>
         </ul>
       </td>
       <td>
