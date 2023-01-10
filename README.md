@@ -207,8 +207,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         <ul>
           <li>Graduando / Pós-graduação / Mestrado / Doutorado </l1>
           <li>O processo é feito pela universidade, geralmente eles publicam um edital explicando o processo e critérios de avaliação para submeter sua inscrição ao programa. Algumas desconhecem sobre o programa, então será necessário entrar em contato com a Assessoria de Relações Internacionais da sua universidade para mais informações. </l1>
-          <li>Além disso, é necessário que sua universidade esteja listada como parceira do programa. (Atualmente, todas do Paraná)</li>
-        </ul>
+              </ul>
       </td>
       <td>
         <li>4 ~ 6 meses </li>
