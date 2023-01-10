@@ -287,6 +287,51 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
 ## 🇨🇱 Chile
 
 ## 🇨🇳 China
+<table role="table">
+  <thead>
+    <tr>
+      <th>Programa</th>
+      <th>Critérios importantes</th>
+      <th>Tempo de duração</th>
+      <th>Data de abertura</th>
+      <th>Data de fechamento</th>
+      <th>Cursos elegíveis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="http://iso.ruc.edu.cn/ENGLISH/Scholarship/BeijingMunicipalGovernmentScholarship/index.htm" target="_BLANK">Beijing Municial Government Scholarships</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+	  Graduandos / Graduados / Mestrado / Doutorado
+            </l1>
+	    <li>
+	    A bolsa é concedida de forma de cobertura ou redução da mensalidade.
+	    </li>
+          <li>
+	  Precisa ser proficiente na lingua indicada pela universidade.
+            </l1>
+	     <li>
+	 	Existe uma restrição de idade máxima para o tipo de bolsa que você vai escolher
+            </l1>
+	    <li>
+	 	É feita uma espécie de avaliação do seus resultados acadêmicos para saber sua pontuação e classifica-lo de acordo com um ranking.
+            </l1>
+        </ul>
+      </td>
+      <td>
+       Depende do tipo de programa escolhido, geralmente 1 semestre.
+      </td>
+      <td>🟢 Aberto</td>
+      <td>30 de Maio de 2023</td>
+      <td>Filosofia, Direito, Economia, História, Educação, Administração, Engenharia, Literatura, Artes, Medicina, Agricultura e Ciências em geral</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 🇰🇷 Coreia do Sul
 
