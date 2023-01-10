@@ -8,7 +8,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request com o 
 <a href="#-canadá"> 🇨🇦 Canadá  </a>
 
 # Bolsas internacionais
-
+⚠️ Confira o regulamento completo no site do programa escolhido, aqui serão apresentados apenas alguns critérios mais relevantes para facilitar a busca.
 ## 🇨🇦 Canadá 
 <table role="table">
 <thead>
