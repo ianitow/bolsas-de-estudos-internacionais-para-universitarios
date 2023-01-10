@@ -7,6 +7,8 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request com o 
 # Sumário
 <a href="#-canadá"> 🇨🇦 Canadá  </a>
 
+# Bolsas internacionais
+
 ## 🇨🇦 Canadá 
 <table role="table">
 <thead>
