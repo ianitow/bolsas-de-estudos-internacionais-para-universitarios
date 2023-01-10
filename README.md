@@ -12,7 +12,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
 <li><a href="#-canadá">🇦🇷 Argentina</a></li>
 <li><a href="#-canadá">🇨🇦 Canadá</a></li>
 <li><a href="#-canadá">🇨🇱 Chile</a></li>
-<li><a href="#-canadá">🇨🇳 China</a></li>
+<li><a href="#-china">🇨🇳 China</a></li>
 <li><a href="#-canadá">🇰🇷 Coreia do Sul</a></li>
 <li><a href="#-canadá">🇪🇸 Espanha</a></li>
 <li><a href="#-canadá">🇺🇸 Estados Unidos</a></li>
@@ -308,6 +308,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
           <li>
 	  Graduandos / Graduados / Mestrado / Doutorado
             </l1>
+	      <li>Processo pode ser feito com o auxilio da <a href="http://br.china-embassy.gov.cn/por/sghds/202210/t20221015_10784079.htm">embaixada da China</a></li>
 	    <li>
 	    A bolsa é concedida de forma de cobertura ou redução da mensalidade.
 	    </li>
@@ -341,6 +342,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
           <li>
 	  Graduandos / Graduados / Mestrado / Doutorado
             </l1>
+	         <li>Processo pode ser feito com o auxilio da <a href="http://br.china-embassy.gov.cn/por/sghds/202210/t20221015_10784079.htm">embaixada da China</a></li>
 	     <li>
 	 Necessário certificado de proficiência
             </l1>
