@@ -8,7 +8,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
 # Sumário
 
 <ul>
-<li><a href="#-canadá">🇩🇪 Alemanha</a></li>
+<li><a href="#-alemanha">🇩🇪 Alemanha</a></li>
 <li><a href="#-canadá">🇦🇷 Argentina</a></li>
 <li><a href="#-canadá">🇨🇦 Canadá</a></li>
 <li><a href="#-canadá">🇨🇱 Chile</a></li>
@@ -35,7 +35,51 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
 ⚠️ Confira o regulamento completo no site do programa escolhido, aqui serão apresentados apenas alguns critérios mais relevantes para facilitar a busca.
 
 ## 🇩🇪 Alemanha
+<table role="table">
+<thead>
+<tr>
+<th>Programa</th>
+<th>Critérios importantes</th>
+<th>Tempo de duração</th>
+<th>Data de abertura</th>
+<th>Data de fechamento</th>
+<th>Cursos elegíveis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://summerstudents.desy.de/application/" target="_BLANK"> DESY</a></td>
+<td>
+<ul>
+<li>Graduando / Mestrado </l1>
+<li>Necessário conhecimento básico de informática. </l1>
+<li>Além disso, é necessário que sua universidade esteja listada como parceira do programa. (Atualmente, todas do Paraná)</li>
+</ul> </td>
+<td><li>7 semanas</li></td>
+<td>🟢 Aberto</td>
+<td>31 de Janeiro de 2023</td>
+<td>Ciências da computação(ou correlatadas), Física ou Ciências Naturais </td>
+</tr>
 
+<tr>
+<td><a href="https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777" target="_BLANK"> DAAD</a></td>
+<td>
+<ul>
+<li>Pós-graduação / Mestrado / Doutorado </l1>
+<li>Inglês(TOEFL/IELTS) ou Alemão(DSH / TestDaF) comprovado com certificado.</l1>
+<li>2 anos de experiência profissional.</l1>
+</ul> </td>
+<td><li>1 ~ 3 anos</li></td>
+<td>🟢 Aberto (Conferir o prazo de cada curso na página do programa) </td>
+<td>Depende do curso o prazo é diferente.</td>
+<td>Diversas áreas</td>
+</tr>
+
+
+
+
+</tbody>
+</table>
 
 ## 🇦🇷 Argentina
 
