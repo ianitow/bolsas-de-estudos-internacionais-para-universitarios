@@ -155,10 +155,10 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         </ul>
       </td>
       <td>
-        <li>16 semanas + 4/8 semanas para o curso de espanhol</li>
+        <li>16 a 32 semanas + 4 a 8 semanas para o curso de espanhol</li>
       </td>
-      <td>🟢 Aberto</td>
-      <td>Março, Abril e Julho de 2023</td>
+      <td>🟢 Aberto (Já é possível se inscrever para Março, Abril e Julho de 2023)</td>
+      <td>Julho 2023</td>
       <td>Diversas cursos em diferentes universidades, conferir no site do programa</td>
     </tr>
   </tbody>
