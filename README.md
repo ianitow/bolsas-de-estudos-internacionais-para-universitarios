@@ -332,6 +332,42 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
       <td>30 de Maio de 2023</td>
       <td>Filosofia, Direito, Economia, História, Educação, Administração, Engenharia, Literatura, Artes, Medicina, Agricultura e Ciências em geral</td>
     </tr>
+    
+     <tr>
+      <td>
+        <a href="http://iso.ruc.edu.cn/ENGLISH/Scholarship/RUC2022ScholarshipApplicationGuideforNewInternationalStudents/index.htm" target="_BLANK">V. Renmin University of China Outstanding International Students Award</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+	  Graduandos / Graduados / Mestrado / Doutorado
+            </l1>
+	     <li>
+	 Necessário certificado de proficiência
+            </l1>
+	    <li>
+	  Ter uma carta de recomendação do professor da universidade escolhida não é obrigatório mas aumenta suas chances.
+            </l1>
+          <li>
+	  Precisa ser proficiente na lingua indicada pela universidade.
+            </l1>
+	     <li>
+	  Cada unviversidade exige documentos diferentes, é preciso checar o que cada uma pede.
+            </l1>   
+	<li>
+	<a href="https://ascholarship.com/renmin-university-of-china-csc-scholarship-china-scholarship-council-chinese-government-scholarship/">Informações úteis</a>
+	</li>
+        </ul>
+      </td>
+      <td>
+       1 ~ 4 anos
+      </td>
+      <td>2023 sem data disponível</td>
+      <td>2023 sem data disponível</td>
+      <td>Diversas áreas</td>
+    </tr>
+    
+    
   </tbody>
 </table>
 
