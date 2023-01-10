@@ -152,6 +152,9 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
             <li>
           Pode combinar essa bolsa de estudos com outras bolsas do mesmo programa Mente Argentina
           </l1>
+            <li>
+          Algumas coisas não são cobertas pela bolsa, conferir no link <a href="https://www.menteargentina.com/blog/frequently-asked-questions/"> F.A.Q Mente Argentina</a>.
+            </l1>
         </ul>
       </td>
       <td>
@@ -159,9 +162,69 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
       </td>
       <td>🟢 Aberto (Já é possível se inscrever para Março, Abril e Julho de 2023)</td>
       <td>Julho 2023</td>
-      <td>Diversas cursos em diferentes universidades, conferir no site do programa</td>
+      <td>Diversos cursos em diferentes universidades, conferir no site do programa</td>
     </tr>
-  </tbody>
+ <tr>
+      <td>
+        <a href="https://www.menteargentina.com/3/Study-Abroad-Programs/5/University-Spanish-Program" target="_BLANK">Mente Argentina - University Spanish Program</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+          Espanhol necessário (qualquer nível)
+           </l1>
+           <li>
+          Pode combinar essa bolsa de estudos com outras bolsas do mesmo programa Mente Argentina
+          </l1>
+          <li>
+          Curso é focado em melhorar seu espanhol e ganhar créditos acadêmicos (não é obrigatório)
+            </l1>
+              <li>
+          Curso mescla explorar Buenos Aires e atividades em sala de aula.
+            </l1>
+            <li>
+          Algumas coisas não são cobertas pela bolsa, conferir no link <a href="https://www.menteargentina.com/blog/frequently-asked-questions/"> F.A.Q Mente Argentina</a>.
+            </l1>
+        </ul>
+      </td>
+      <td>
+        <li>4 ~ 24 semanas</li>
+      </td>
+      <td>🟢 Aberto</td>
+      <td>Novembro de 2023</td>
+      <td>Curso de espanhol, então aparentemente todos os cursos elegíveis</td>
+    </tr>
+		 <tr>
+      <td>
+        <a href="https://www.menteargentina.com/3/Study-Abroad-Programs/4/Summer-Program-in-Argentina" target="_BLANK">Mente Argentina - Summer Program in Argentina</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+          Espanhol necessário (qualquer nível)
+           </l1>
+           <li>
+          Pode combinar essa bolsa de estudos com outras bolsas do mesmo programa Mente Argentina
+          </l1>
+          <li>
+          Curso é focado em melhorar seu espanhol e ganhar créditos acadêmicos (não é obrigatório)
+            </l1>
+              <li>
+          Curso mescla explorar Buenos Aires e atividades em sala de aula.
+            </l1>
+            <li>
+          Algumas coisas não são cobertas pela bolsa, conferir no link <a href="https://www.menteargentina.com/blog/frequently-asked-questions/"> F.A.Q Mente Argentina</a>.
+            </l1>
+        </ul>
+      </td>
+      <td>
+        <li>4 ~ 16 semanas</li>
+      </td>
+      <td>🟢 Aberto (Já é possível se inscrever para Maio, Junho, Julho e Agosto)</td>
+      <td>Julho de 2023</td>
+      <td>Diversos cursos em diferentes universidades, conferir no site do programa</td>
+    </tr>
+</tbody>
 </table>
 
 
