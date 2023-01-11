@@ -14,9 +14,9 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
 <li><a href="#-canadá">🇨🇦 Canadá</a></li>
 <li><a href="#-chile">🇨🇱 Chile</a></li>
 <li><a href="#-china">🇨🇳 China</a></li>
-<li><a href="#-canadá">🇰🇷 Coreia do Sul</a></li>
-<li><a href="#-canadá">🇪🇸 Espanha</a></li>
-<li><a href="#-canadá">🇺🇸 Estados Unidos</a></li>
+<li><a href="#-coreia-do-sul">🇰🇷 Coreia do Sul</a></li>
+<li><a href="#-espanha">🇪🇸 Espanha</a></li>
+<li><a href="#-estados-unidos">🇺🇸 Estados Unidos</a></li>
 <li><a href="#-frança">🇫🇷 França</a></li>
 <li><a href="#-itália">🇮🇹 Itália</a></li>
 <li><a href="#-japão">🇯🇵 Japão</a></li>
