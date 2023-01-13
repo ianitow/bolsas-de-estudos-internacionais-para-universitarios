@@ -297,6 +297,44 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
 
 ## 🇨🇱 Chile
 
+<table role="table">
+  <thead>
+    <tr>
+      <th>Programa</th>
+      <th>Critérios importantes</th>
+      <th>Tempo de duração</th>
+      <th>Data de abertura</th>
+      <th>Data de fechamento</th>
+      <th>Cursos elegíveis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://www.agci.cl/index.php/becas/becas-para-extranjeros/105-encuentra-tu-beca/1694-infobecaextr-4/?tipo=2&idNew=291" target="_BLANK"> Agência Chilena de Cooperação Internacional para o Desenvolvimento (AGCID)</a>
+      </td>
+      <td>
+        <ul>
+          <li>Pós-graduação / Mestrado</l1>
+          <li>Não cobre gastos relacionados a visto e passagens.</li>
+           <li>Candidaturas apresentadas por funcionários públicos ou académicos de universidades reconhecidas pelo país do requerente.</li>
+           <li>Quando a convocatória é publicada, a(o) postulante deve revisar a lista de mestrados oferecidos para comprovar que a pós-graduação que lhe interessa foi contemplada</li>
+          <li>O passo seguinte à/ao postulante é verificar com a universidade chilena escolhida os requisitos para obter carta de aceitação. Certos programas têm prazos e requisitos mais exigentes que outros.</li>
+          <li>A bolsa está direcionada, por determinação da AGCID, a profissionais brasileiros que possuam diploma de graduação no momento da inscrição e que atuem preferencialmente em instituições públicas. Isso não impede a participação de profissionais que trabalhem em empresas privadas, outras organizações ou de maneira independente.</li>
+          <li><a href="https://www.gov.br/mre/pt-br/assuntos/cultura-e-educacao/temas-educacionais/programas-de-estudo-para-brasileiros/chile">Informações Gov.br</a></li>
+        </ul>
+      </td>
+      <td>
+        <li>2 anos</li>
+      </td>
+      <td>2023 sem informações</td>
+      <td>2023 sem informações</td>
+      <td>Dependende de cada universidade, é preciso conferir no site. </td>
+    </tr>
+    
+  </tbody>
+</table>
+
 ## 🇨🇳 China
 
 <table role="table">
@@ -667,7 +705,7 @@ Bom conhecimento da língua japonesa(Nível N3)
       <td>4 anos</td>
      <td>2023 sem informações</td>
       <td>2023 sem informações</td> 
-      <td><a href="https://www.studyinjapan.go.jp/en/_mt/2022/04/2023_Majors_CofTechnology.pdf"> Áreas de estudo</a></td>
+      <td><a href="https://www.studyinjapan.go.jp/en/_mt/2022/04/2023_Majors_CofTechnology.pdf" target="_BLANK"> Áreas de estudo</a></td>
     </tr>
      <tr>
       <td>
