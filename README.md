@@ -85,8 +85,6 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         <a href="https://summerstudents.desy.de/application/" target="_BLANK"> DESY</a>
       </td>
       <td>
-
-
           <li>Graduando / Mestrado </l1>
           <li>Necessário conhecimento básico de informática. </l1>
           <li>Além disso, é necessário que sua universidade esteja listada como parceira do programa. (Atualmente, todas do Paraná)</li>
