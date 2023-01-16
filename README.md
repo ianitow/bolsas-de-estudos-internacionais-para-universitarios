@@ -23,6 +23,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
 <li><a href="#-méxico">🇲🇽 México</a></li>
 <li><a href="#-portugal">🇵🇹 Portugal</a></li>
 <li><a href="#-rússia">🇷🇺 Rússia</a></li>
+<li><a href="#-suíça">🇨🇭 Suiça</a></li>
 <li><a href="#-ucrânia">🇺🇦 Ucrânia</a></li>
 <li><a href="#-uruguai">🇺🇾 Uruguai</a></li>
 </ul>
@@ -84,7 +85,8 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         <a href="https://summerstudents.desy.de/application/" target="_BLANK"> DESY</a>
       </td>
       <td>
-        <ul>
+
+
           <li>Graduando / Mestrado </l1>
           <li>Necessário conhecimento básico de informática. </l1>
           <li>Além disso, é necessário que sua universidade esteja listada como parceira do programa. (Atualmente, todas do Paraná)</li>
@@ -760,8 +762,39 @@ Bom conhecimento da língua japonesa(Nível N3)
 ## 🇵🇹 Portugal
 
 ## 🇷🇺 Rússia
+<table role="table">
+  <thead>
+    <tr>
+      <th>Programa</th>
+      <th>Critérios importantes</th>
+      <th>Tempo de duração</th>
+      <th>Data de abertura</th>
+      <th>Data de fechamento</th>
+      <th>Cursos elegíveis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="#" target="_BLANK">X</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            </l1>
+          <li>
+            </l1>
+        </ul>
+      </td>
+      <td></td>
+      <td>🟢 Aberto</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-## 🇸🇬 Singapura
+## 🇸🇬 Suíça
 
 <table role="table">
   <thead>
@@ -777,23 +810,26 @@ Bom conhecimento da língua japonesa(Nível N3)
   <tbody>
     <tr>
       <td>
-        <a href="https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga" target="_BLANK">SINGAPORE INTERNATIONAL PRE-GRADUATE AWARD (SIPGA)</a>
+        <a href="https://jobs.smartrecruiters.com/CERN/743999863506240-cern-summer-student-programme-2023-member-and-non-memb" target="_BLANK">CERN Summer Student Programme 2023 (Member and Non-Member State)</a>
       </td>
       <td>
         <ul>
-        <li> Graduação / Mestrado</li>
+        <li> Graduando ou Mestrando</li>
+	<li> Ao retornar do projeto, você precisa estar continuando na sua faculdade. (1 à 3 semestres para finalizar) </li>
           <li>
-          Estar no 3 ou 4 ano da graduação ou estar no mestrado.
+        Bom conhecimento de Inglês. Conhecimento de Francês é um diferencial.
             </li>
+	    <li>
+	    Valor aproximado da bolsa de 7 mil euros</li>
              <li>
-         Precisa fazer um relatório 3 semanas antes da bolsa finalizar.
+         Possíveis datas de idas: Junho à Julho
             </li>
         </ul>
       </td>
-      <td>2 ~ 6 meses</td>
-      <td>15 de Fevereiro 2023¹ | 15 June 2023² </td>
+      <td>8 à 13 semanas</td>
+      <td>🟢 Aberto </td>
       <td>Julho 2023¹ | Novembro 2023²</td>
-      <td>Diversas áreas</td>
+      <td>Apenas para Física, Engenharia, Ciências da Computação ou Matemática</td>
     </tr>
   </tbody>
 </table>
