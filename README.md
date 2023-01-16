@@ -604,8 +604,8 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         </ul>
       </td>
        <td>1 ano e 6 meses</td>
-      <td>2023 sem informações</td>
-      <td>2023 sem informações</td>
+      <td>🟢 Aberto</td>
+      <td>16 de Janeiro a 16 de Fevereiro de 2023</td>
       <td>Ser graduado por uma universidade ou escola de formação de professores (magistério)
     </tr>
     <tr>
@@ -627,8 +627,8 @@ Bom conhecimento da língua japonesa(Nível N3)
         </ul>
       </td>
       <td>1 ano</td>
-      <td>2023 sem informações</td>
-      <td>2023 sem informações</td> 
+      <td>🟢 Aberto</td>
+      <td>16 de Janeiro a 16 de Fevereiro de 2023</td> 
       <td>Letras Japonês</td>
     </tr>
        <tr>
@@ -652,8 +652,8 @@ Bom conhecimento da língua japonesa(Nível N3)
         </ul>
       </td>
       <td>1 ano</td>
-     <td>2023 sem informações</td>
-      <td>2023 sem informações</td> 
+     <td>🟢 Aberto</td>
+      <td>16 de Janeiro a 16 de Fevereiro de 2023</td> 
       <td> Estudante universitário de qualquer área.</td>
     </tr>
        <tr>
