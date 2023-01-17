@@ -792,7 +792,7 @@ Bom conhecimento da língua japonesa(Nível N3)
   </tbody>
 </table>
 
-## 🇸🇬 Suíça
+## 🇨🇭 Suíça
 
 <table role="table">
   <thead>
