@@ -826,7 +826,7 @@ Bom conhecimento da língua japonesa(Nível N3)
       </td>
       <td>8 à 13 semanas</td>
       <td>🟢 Aberto </td>
-      <td>Julho 2023¹ | Novembro 2023²</td>
+      <td>30 de Janeiro de 2023</td>
       <td>Apenas para Física, Engenharia, Ciências da Computação ou Matemática</td>
     </tr>
   </tbody>
