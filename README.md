@@ -268,8 +268,8 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
       <td>
         <li>4 ~ 6 meses </li>
       </td>
-      <td>2023 ainda não foram abertas</td>
-      <td>2023 ainda não foram abertas</td>
+      <td>🟢 Aberto</td>
+      <td>21 de Março de 2023</td>
       <td>
         <li>Estudantes que desenvolvam estudos relacionados a disciplinas que promovam a boa governança, prosperidade, paz, segurança e desenvolvimento econômico. (Subjetivo, interpretei como todas as áreas)</li>
       </td>
