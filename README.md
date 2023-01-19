@@ -22,6 +22,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
 <li><a href="#-japão">🇯🇵 Japão</a></li>
 <li><a href="#-méxico">🇲🇽 México</a></li>
 <li><a href="#-portugal">🇵🇹 Portugal</a></li>
+<li><a href="#-reino-unido">🇬🇧 Reino Unido</a></li>
 <li><a href="#-rússia">🇷🇺 Rússia</a></li>
 <li><a href="#-suíça">🇨🇭 Suiça</a></li>
 <li><a href="#-ucrânia">🇺🇦 Ucrânia</a></li>
@@ -758,6 +759,47 @@ Bom conhecimento da língua japonesa(Nível N3)
 ## 🇲🇽 México
 
 ## 🇵🇹 Portugal
+
+## 🇬🇧 Reino Unido
+
+<table role="table">
+  <thead>
+    <tr>
+      <th>Programa</th>
+      <th>Critérios importantes</th>
+      <th>Tempo de duração</th>
+      <th>Data de abertura</th>
+      <th>Data de fechamento</th>
+      <th>Cursos elegíveis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://app.becas-santander.com/pt/program/santander-scholarships-language-uk-english-summer-experience-2023" target="_BLANK">Becas Santander Language | UK English Summer Experience </a>
+      </td>
+      <td>
+        <ul>
+	<li>Não é necessário estar na faculdade </li>
+          <li>
+	  Ter disponibilidade para viajar ao Reino Unido entre 1º de julho e 17 de agosto.
+            </li>
+          <li>
+	  Ter, no mínimo, um nível de inglês intermediário baixo (normalmente, equivalente ao nível B1). 
+            </li>
+	    <li>
+	    Comprovar seu nível de inglês, seja enviando um certificado oficial ou realizando uma prova de inglês, destinada unicamente a assegurar que os candidatos possuam, no mínimo, um nível de inglês intermediário baixo
+	    </li>
+	    <li>A bolsa tem algumas limitações, não cobre nada relacionado a sua manutenção, seguro saúde(obrigatório), Traslados de/para o aeroporto no Reino Unido ou no país de origem do participante, gestão e tranmitação do visto (não é necessário visto)</li>
+        </ul>
+      </td>
+      <td>3 semenas</td>
+      <td>🟢 Aberto</td>
+      <td>30 de janeiro de 2023</td>
+      <td>Não é necesário estar na faculdade</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🇷🇺 Rússia
 <table role="table">
