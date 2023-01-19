@@ -802,37 +802,6 @@ Bom conhecimento da língua japonesa(Nível N3)
 </table>
 
 ## 🇷🇺 Rússia
-<table role="table">
-  <thead>
-    <tr>
-      <th>Programa</th>
-      <th>Critérios importantes</th>
-      <th>Tempo de duração</th>
-      <th>Data de abertura</th>
-      <th>Data de fechamento</th>
-      <th>Cursos elegíveis</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="#" target="_BLANK">X</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            </l1>
-          <li>
-            </l1>
-        </ul>
-      </td>
-      <td></td>
-      <td>🟢 Aberto</td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
 
 ## 🇨🇭 Suíça
 
