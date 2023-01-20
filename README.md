@@ -22,7 +22,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
 <li><a href="#-japão">🇯🇵 Japão</a></li>
 <li><a href="#-méxico">🇲🇽 México</a></li>
 <li><a href="#-portugal">🇵🇹 Portugal</a></li>
-<li><a href="#-reino-unido">🇬🇧 Reino Unido</a></li>
+<li><a href="#-reino-unido">🇬🇧 Reino Unido (Todos os países)</a></li>
 <li><a href="#-rússia">🇷🇺 Rússia</a></li>
 <li><a href="#-suíça">🇨🇭 Suiça</a></li>
 <li><a href="#-ucrânia">🇺🇦 Ucrânia</a></li>
@@ -54,9 +54,9 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
       <td>
         <ul>
           <li>
-            </l1>
+            </li>
           <li>
-            </l1>
+            </li>
         </ul>
       </td>
       <td></td>
@@ -796,6 +796,32 @@ Bom conhecimento da língua japonesa(Nível N3)
       <td>3 semenas</td>
       <td>🟢 Aberto</td>
       <td>30 de janeiro de 2023</td>
+      <td>Não é necesário estar na faculdade</td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://www.ucl.ac.uk/electronic-electrical-engineering/telles-scholarship" target="_BLANK">
+Telles Scholarship </a>
+      </td>
+      <td>
+        <ul>
+	<li>Exclusivo para Brasileiros</li>
+          <li>
+	 Ter necessidades financeiras avaliadas pela UCL (ou seja, com um rendimento familiar inferior a £42,875/ano)
+            </li>
+	    <li>
+	    Demonstrar entusiasmo em Engenharia Electrónica e Eléctrica e querer estudar a disciplina a nível de graduação.
+	    </li>
+	    <li>
+	    Ter concluído o ensino médio com média 8/10 em matérias acadêmicas relevantes.
+	    </li>
+	    <li>Comprovante de proficiência em inglês IELTS / UKVI (min: 5.5)</li>
+	    <li><a href="https://www.ucl.ac.uk/electronic-electrical-engineering/how-apply-telles-scholarship#:~:text=To%20be%20eligible%2C%20you%20must,household%20income%20below%20%C2%A342%2C875)" target="_BLANK">Mais informações</a>
+        </ul>
+      </td>
+      <td>3 ~ 4 anos</td>
+      <td>8 de Fevereiro</td>
+      <td>1 de Abril de 2023</td>
       <td>Não é necesário estar na faculdade</td>
     </tr>
   </tbody>
