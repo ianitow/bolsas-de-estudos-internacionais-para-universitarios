@@ -25,6 +25,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
 <li><a href="#-reino-unido">🇬🇧 Reino Unido (Todos os países)</a></li>
 <li><a href="#-rússia">🇷🇺 Rússia</a></li>
 <li><a href="#-suíça">🇨🇭 Suiça</a></li>
+<li><a href="#-turquia">🇹🇷 Turquia</a></li>
 <li><a href="#-ucrânia">🇺🇦 Ucrânia</a></li>
 <li><a href="#-uruguai">🇺🇾 Uruguai</a></li>
 </ul>
@@ -86,8 +87,8 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         <a href="https://summerstudents.desy.de/application/" target="_BLANK"> DESY</a>
       </td>
       <td>
-          <li>Graduando / Mestrado </l1>
-          <li>Necessário conhecimento básico de informática. </l1>
+          <li>Graduando / Mestrado </li>
+          <li>Necessário conhecimento básico de informática. </li>
           <li>Além disso, é necessário que sua universidade esteja listada como parceira do programa. (Atualmente, todas do Paraná)</li>
         </ul>
       </td>
@@ -104,9 +105,9 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
       </td>
       <td>
         <ul>
-          <li>Pós-graduação / Mestrado / Doutorado </l1>
-          <li>Inglês(TOEFL/IELTS) ou Alemão(DSH / TestDaF) comprovado com certificado. </l1>
-          <li>2 anos de experiência profissional. </l1>
+          <li>Pós-graduação / Mestrado / Doutorado </li>
+          <li>Inglês(TOEFL/IELTS) ou Alemão(DSH / TestDaF) comprovado com certificado. </li>
+          <li>2 anos de experiência profissional. </li>
         </ul>
       </td>
       <td>
@@ -141,16 +142,16 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         <ul>
           <li>
           Graduando
-          </l1>
+          </li>
           <li>
           Necessário Inglês ou Espanhol (Eles também oferecem um curso de Espanhol nas 4 primeiras semanas)
-          </l1>
+          </li>
             <li>
           Pode combinar essa bolsa de estudos com outras bolsas do mesmo programa Mente Argentina
-          </l1>
+          </li>
             <li>
           Algumas coisas não são cobertas pela bolsa, conferir no link <a href="https://www.menteargentina.com/blog/frequently-asked-questions/"> F.A.Q Mente Argentina</a>.
-            </l1>
+            </li>
         </ul>
       </td>
       <td>
@@ -168,19 +169,19 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         <ul>
           <li>
           Espanhol necessário (qualquer nível)
-           </l1>
+           </li>
            <li>
           Pode combinar essa bolsa de estudos com outras bolsas do mesmo programa Mente Argentina
-          </l1>
+          </li>
           <li>
           Curso é focado em melhorar seu espanhol e ganhar créditos acadêmicos (não é obrigatório)
-            </l1>
+            </li>
               <li>
           Curso mescla explorar Buenos Aires e atividades em sala de aula.
-            </l1>
+            </li>
             <li>
           Algumas coisas não são cobertas pela bolsa, conferir no link <a href="https://www.menteargentina.com/blog/frequently-asked-questions/"> F.A.Q Mente Argentina</a>.
-            </l1>
+            </li>
         </ul>
       </td>
       <td>
@@ -198,19 +199,19 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         <ul>
           <li>
           Espanhol necessário (qualquer nível)
-           </l1>
+           </li>
            <li>
           Pode combinar essa bolsa de estudos com outras bolsas do mesmo programa Mente Argentina
-          </l1>
+          </li>
           <li>
           Curso é focado em melhorar seu espanhol e ganhar créditos acadêmicos (não é obrigatório)
-            </l1>
+            </li>
               <li>
           Curso mescla explorar Buenos Aires e atividades em sala de aula.
-            </l1>
+            </li>
             <li>
           Algumas coisas não são cobertas pela bolsa, conferir no link <a href="https://www.menteargentina.com/blog/frequently-asked-questions/"> F.A.Q Mente Argentina</a>.
-            </l1>
+            </li>
         </ul>
       </td>
       <td>
@@ -243,8 +244,8 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
       </td>
       <td>
         <ul>
-          <li>Graduando / Pós-graduação / Mestrado </l1>
-          <li>Faltar 1-3 semestres para concluir sua graduação no Brasil ao retornar do programa. </l1>
+          <li>Graduando / Pós-graduação / Mestrado </li>
+          <li>Faltar 1-3 semestres para concluir sua graduação no Brasil ao retornar do programa. </li>
           <li>Além disso, é necessário que sua universidade esteja listada como parceira do programa. (Atualmente, todas do Paraná)</li>
           <li>Fluência Inglês / Francês. (Não é necessário certificado de proficiência) </li>
         </ul>
@@ -262,8 +263,8 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
       </td>
       <td>
         <ul>
-          <li>Graduando / Pós-graduação / Mestrado / Doutorado </l1>
-          <li>O processo é feito pela universidade, geralmente eles publicam um edital explicando o processo e critérios de avaliação para submeter sua inscrição ao programa. Algumas desconhecem sobre o programa, então será necessário entrar em contato com a Assessoria de Relações Internacionais da sua universidade para mais informações. </l1>
+          <li>Graduando / Pós-graduação / Mestrado / Doutorado </li>
+          <li>O processo é feito pela universidade, geralmente eles publicam um edital explicando o processo e critérios de avaliação para submeter sua inscrição ao programa. Algumas desconhecem sobre o programa, então será necessário entrar em contato com a Assessoria de Relações Internacionais da sua universidade para mais informações. </li>
               </ul>
       </td>
       <td>
@@ -316,7 +317,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
       </td>
       <td>
         <ul>
-          <li>Pós-graduação / Mestrado</l1>
+          <li>Pós-graduação / Mestrado</li>
           <li>Não cobre gastos relacionados a visto e passagens.</li>
            <li>Candidaturas apresentadas por funcionários públicos ou académicos de universidades reconhecidas pelo país do requerente.</li>
            <li>Quando a convocatória é publicada, a(o) postulante deve revisar a lista de mestrados oferecidos para comprovar que a pós-graduação que lhe interessa foi contemplada</li>
@@ -358,20 +359,20 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         <ul>
           <li>
 	  Graduandos / Graduados / Mestrado / Doutorado
-            </l1>
+            </li>
 	      <li>Processo pode ser feito com o auxilio da <a href="http://br.china-embassy.gov.cn/por/sghds/202210/t20221015_10784079.htm">embaixada da China</a></li>
 	    <li>
 	    A bolsa é concedida de forma de cobertura ou redução da mensalidade.
 	    </li>
           <li>
 	  Precisa ser proficiente na lingua indicada pela universidade.
-            </l1>
+            </li>
 	     <li>
 	 	Existe uma restrição de idade máxima para o tipo de bolsa que você vai escolher
-            </l1>
+            </li>
 	    <li>
 	 	É feita uma espécie de avaliação do seus resultados acadêmicos para saber sua pontuação e classifica-lo de acordo com um ranking.
-            </l1>
+            </li>
 	<li>
 	<a href="https://ascholarship.com/beijing-municipal-government-scholarships-2023-2024-deadline-may-30-2023/">Informações úteis</a>
 	</li>
@@ -392,20 +393,20 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         <ul>
           <li>
 	  Graduandos / Graduados / Mestrado / Doutorado
-            </l1>
+            </li>
 	         <li>Processo pode ser feito com o auxilio da <a href="http://br.china-embassy.gov.cn/por/sghds/202210/t20221015_10784079.htm">embaixada da China</a></li>
 	     <li>
 	 Necessário certificado de proficiência
-            </l1>
+            </li>
 	    <li>
 	  Ter uma carta de recomendação do professor da universidade escolhida não é obrigatório mas aumenta suas chances.
-            </l1>
+            </li>
           <li>
 	  Precisa ser proficiente na lingua indicada pela universidade.
-            </l1>
+            </li>
 	     <li>
 	  Cada unviversidade exige documentos diferentes, é preciso checar o que cada uma pede.
-            </l1>   
+            </li>   
 	<li>
 	<a href="https://ascholarship.com/renmin-university-of-china-csc-scholarship-china-scholarship-council-chinese-government-scholarship/">Informações úteis</a>
 	</li>
@@ -446,13 +447,13 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         <ul>
           <li>
 	  Graduação / Pós-graduação
-            </l1>
+            </li>
 	    <li>
 	  Inscrição feita pela embaixo da Coréia do Sul no Brasil. Ao escolher pela embaixada, você concorre apenas com estudantes brasileiros. Ao escolher uma universidade por conta, você concorre apenas a uma universidade e é responsável por enviar os documentos. Necessário checar edital
-            </l1>
+            </li>
           <li>
 	  Restrição de idade. Ser menor que 40 anos para pós-graduação e menor que 25 anos para graduação.
-           </l1>
+           </li>
 	   <li>
 	   <a href="https://overseas.mofa.go.kr/br-pt/brd/m_22116/view.do?seq=761036">Informações úteis¹</a>
 	   </li>
@@ -502,18 +503,18 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         </li>
          <li>
           Fluente em Inglês
-            </l1>
+            </li>
               <li>
          São líderes / impactam a comunidade onde vivem.
-            </l1>
+            </li>
               <li>
          Ter um compromisso demonstrado com a inclusão, orientação comunitária, esperança, coragem, imaginação, estratégia, responsabilidade, integridade e resiliência
-            </l1>
+            </li>
           <li>
           São líderes emergentes que deram contribuições significativas para o seu campo e estão agora num "momento de ruptura" nas suas carreiras
-            </l1>
+            </li>
           <li>
-            </l1>
+            </li>
         </ul>
       </td>
       <td>Não especificado</td>
@@ -546,13 +547,13 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         <ul>
           <li>
           Mestrado
-            </l1>
+            </li>
                <li>
           É necessário entrar em contato com a embaixada da França no Brasil para receber um número que vai te ajudar a conseguir um visto de estudante na França.
-            </l1>
+            </li>
           <li>
           Os candidatos são selecionados com base em critérios acadêmicos atestados por histórico escolar e cartas de recomendação. 
-            </l1>
+            </li>
             <li>
             O valor da bolsa é  de € 11.000 líquidos por ano</li>
             <li>
@@ -591,10 +592,10 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         <ul>
           <li>
           Solicitada pela embaixada japonesa no Brasil
-            </l1>
+            </li>
           <li>
           Sem taxa de inscrição
-            </l1>
+            </li>
             <li>
             Experiência mínima de 5 anos como professor do ensino fundamental e/ou médio</li>
             <li>Exercendo a função atualmente</li>
@@ -617,13 +618,13 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         <ul>
           <li>
           Solicitada pela embaixada japonesa no Brasil
-            </l1>
+            </li>
           <li>
           Sem taxa de inscrição
-            </l1>
+            </li>
              <li>
 Bom conhecimento da língua japonesa(Nível N3)
-            </l1>
+            </li>
             <li>Bolsa mensal de 117.000 ienes (aprox. R$5.661,00 em Jan/2022)</li>
         </ul>
       </td>
@@ -641,13 +642,13 @@ Bom conhecimento da língua japonesa(Nível N3)
         <li>Graduando em Letras(Japonês)</li>
           <li>
           Solicitada pela embaixada japonesa no Brasil
-            </l1>
+            </li>
           <li>
           Sem taxa de inscrição
-            </l1>
+            </li>
           <li>
            Ser descendente de japonês (nikkei);
-            </l1>
+            </li>
             <li>Bom conhecimento da língua japonesa, de no mínimo um ano de estudo, na universidade ou instituição de ensino da língua japonesa (Nível N4)</li>
             <li>Bolsa mensal de 117.000 ienes (aprox. R$5.661,00 em Jan/2022)</li>
         </ul>
@@ -665,16 +666,16 @@ Bom conhecimento da língua japonesa(Nível N3)
         <ul>
           <li>
           Solicitada pela embaixada japonesa no Brasil
-            </l1>
+            </li>
           <li>
           Sem taxa de inscrição
-            </l1>
+            </li>
           <li>
           Geralmente é oferecido um curso de Língua Japonesa para aqueles que não têm o domínio do idioma nos 6 primeiros meses da bolsa (conforme a universidade escolhida).
-            </l1>
+            </li>
           <li>
           Nível superior completo ou apto a se formar até junho de 2023
-            </l1>
+            </li>
             <li>Os candidatos devem estar dispostos a aprender a língua japonesa. Os candidatos devem ter interesse no Japão e estar disposto a aprofundar sua compreensão acerca do país depois de chegar no Japão. É recomendável um conhecimento básico da língua japonesa para participar da seleção.</li>
             <li>Bolsa de diversos valores, conferir no link</li>
         </ul>
@@ -692,10 +693,10 @@ Bom conhecimento da língua japonesa(Nível N3)
         <ul>
         <li> 
           Solicitada pela embaixada japonesa no Brasil
-            </l1>
+            </li>
           <li>
           Sem taxa de inscrição
-            </l1>
+            </li>
             <li>Formados no ensino médio</li>
             <li>Conhecimento avançado da língua inglesa</li>
             <li>É recomendável ter no mínimo um conhecimento básico da língua japonesa para participar da seleção. </li>
@@ -716,10 +717,10 @@ Bom conhecimento da língua japonesa(Nível N3)
         <ul>
         <li> 
           Solicitada pela embaixada japonesa no Brasil
-            </l1>
+            </li>
           <li>
           Sem taxa de inscrição
-            </l1>
+            </li>
             <li>Histórico ou boletim do ensino médio com alto rendimento escolar  (média global dos três anos do Ensino Médio);</li>
             <li>Conhecimento avançado da língua inglesa</li>
         </ul>
@@ -737,7 +738,7 @@ Bom conhecimento da língua japonesa(Nível N3)
         <ul>
         <li> 
           Solicitada pela embaixada japonesa no Brasil
-            </l1>
+            </li>
           <li>
           Sem taxa de inscrição
             </li>
