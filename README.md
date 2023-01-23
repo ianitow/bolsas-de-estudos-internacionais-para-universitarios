@@ -870,6 +870,48 @@ Telles Scholarship </a>
   </tbody>
 </table>
 
+## 🇹🇷 Turquia
+
+<table role="table">
+  <thead>
+    <tr>
+      <th>Programa</th>
+      <th>Critérios importantes</th>
+      <th>Tempo de duração</th>
+      <th>Data de abertura</th>
+      <th>Data de fechamento</th>
+      <th>Cursos elegíveis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://www.turkiyeburslari.gov.tr/announcements/turkiye-scholarships-2023-applications-39" target="_BLANK">Türkiye Scholarships</a>
+      </td>
+      <td>
+        <ul>
+        <li> Graduando / Mestrado / Doutorado </li>
+        <li> Ter pelo menos 70% do curso concluído aqui no Brasil  </li>
+        <li> Tem restrição de idade dependendo da escolaridade. (Ex. Graduando <= 21)  </li>
+	<li>  Proporciona acomodação para os estudantes que chegam ao novo país. </li>
+          <li>
+        Apoia você em sua viagem à Turquia e quando você retornar ao seu país no final do período de estudos e cobre sua passagem aérea de ida e volta.
+            </li>
+	    <li>
+	    Permite que você aproveite ao máximo os serviços de saúde em geral, quando necessário, com seguro saúde.</li>
+             <li>
+         <a href="https://www.turkiyeburslari.gov.tr/scholarshipsprograms" target="_blank"> Mais informações</a>
+            </li>
+        </ul>
+      </td>
+      <td>1 ano </td>
+      <td>🟢 Aberto </td>
+      <td>23 de fevereiro de 2023</td>
+      <td>Diversas áreas</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 🇺🇦 Ucrânia
 
 ## 🇺🇾 Uruguai
