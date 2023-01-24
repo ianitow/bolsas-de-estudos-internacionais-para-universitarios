@@ -89,8 +89,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
       <td>
           <li>Graduando / Mestrado </li>
           <li>Necessário conhecimento básico de informática. </li>
-          <li>Além disso, é necessário que sua universidade esteja listada como parceira do programa. (Atualmente, todas do Paraná)</li>
-        </ul>
+          </ul>
       </td>
       <td>
         <li>7 semanas</li>
