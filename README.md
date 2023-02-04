@@ -34,7 +34,9 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
 
 ⚠️ Confira o regulamento completo no site do programa escolhido, aqui serão apresentados apenas alguns critérios mais relevantes para facilitar a busca.
 
-## Modelo
+## Modelos para status
+
+### Aberto
 
 <table role="table">
   <thead>
@@ -68,6 +70,38 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
   </tbody>
 </table>
 
+### Fechado 
+
+<table role="table">
+<thead>
+<tr>
+<th>Programa</th>
+<th>Critérios importantes</th>
+<th>Tempo de duração</th>
+<th>Data de abertura</th>
+<th>Data de fechamento</th>
+<th>Cursos elegíveis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<a href="#" target="_BLANK">X</a>
+</td>
+<td>
+<ul>
+<li> Mesmas infos
+</li>
+</ul>
+</td>
+<td> Mesmas infos</td>
+<td>🔴 Fechado</td>
+<td> Data de fechamento (mesma que estava)</td>
+<td> Mesmas infos</td>
+</tr>
+</tbody>
+</table>
+
 ## 🇩🇪 Alemanha
 
 <table role="table">
@@ -94,7 +128,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
       <td>
         <li>7 semanas</li>
       </td>
-      <td>🟢 Aberto</td>
+      <td>🔴 Fechado</td>
       <td>31 de Janeiro de 2023</td>
       <td>Ciências da computação(ou correlatadas), Física ou Ciências Naturais </td>
     </tr>
@@ -289,7 +323,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
       <td>
         <li>Sem informações</li>
       </td>
-      <td>🟢 Aberto</td>
+      <td>🔴 Fechado</td>
       <td>16 de Janeiro de 2023</td>
       <td>Sem muitas informações também, necessário efetuar o registro para saber mais. </td>
     </tr>
@@ -517,7 +551,7 @@ Sinta-se convidado para ajudar a contribuir, basta subir uma pull request / issu
         </ul>
       </td>
       <td>Não especificado</td>
-      <td>🟢 Aberto</td>
+      <td>🔴 Fechado</td>
       <td>19 de Janeiro</td>
       <td>Não é necessário um curso.</td>
     </tr>
@@ -862,7 +896,7 @@ Telles Scholarship </a>
         </ul>
       </td>
       <td>8 à 13 semanas</td>
-      <td>🟢 Aberto </td>
+      <td>🔴 Fechado </td>
       <td>30 de Janeiro de 2023</td>
       <td>Apenas para Física, Engenharia, Ciências da Computação ou Matemática</td>
     </tr>
